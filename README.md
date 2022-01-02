@@ -1,4 +1,4 @@
-# Composite Pattern - PHP
+# Composite Pattern - PHP 
 *Implementação do Composite Pattern Utilizando PHP*
 <hr>
 
@@ -309,5 +309,5 @@ echo "O valor do PEDIDO - {$pedido->getCodigo()} é R$ ".$pedido->finalizarPedid
 
 Como vocês podem ver toda a 'mágica' acontece na função finalizarPedido() da classe Pedido.php. Nela realizamos a iteração sem nos preocupar em verificar se são caixas ou apenas produtos. Além disso, também não nos preocupamos em saber quantos os níveis de caixas que estão compondo-as.
 
-Espero ter ajudado!#   c o m p o s i t e - p a t t e r n - p h p  
- 
+Espero ter ajudado!# composite-pattern-php
+
